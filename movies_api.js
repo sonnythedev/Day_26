@@ -8,7 +8,7 @@ And ofcourse, you need to create JS file with Xml request object thing.
 
 
 const apiUrl='http://www.omdbapi.com/?';
-const apiKey='34a63b6a'; ////PLEASE YOUR OWN API KEY
+const apiKey='*******'; ////PLEASE USE YOUR OWN API KEY
 
 
 function searchMovie(){
