@@ -1,0 +1,19 @@
+.container{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:1rem;
+}
+h1,h2{
+    font-weight: bold;
+}
+h1{
+    font-size:1.2rem;
+    color:#FF5733;
+}
+h2{
+    font-size:1rem;
+    color:#000090;
+}
+.eqSign, .inpResult{
+    font-weight: bold;
+    color:#FF5733;
+}
